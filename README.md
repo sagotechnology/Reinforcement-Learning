@@ -70,4 +70,8 @@ More nodes didn't always produce a better performance during training.  Decreasi
 The epsilon value is the probability of choosing a random state rather than the highest Q value.  It allows the model to explore the state space.  Epsilon decay should produce a better model when used effectively.   
 
 ### 6.  Describe "Q-Learning".  
+Q-learning is a type of reinforcement learning that seeks to find the best action to take given the current state.  It learns from actions that are outside the current policy; therefore, it is within the off-policy category. In a nutshell, Q-learning seeks to learn a policy that maximizes the total reward.   
+
+![Screen Shot 2021-07-18 at 10 15 07 PM](https://user-images.githubusercontent.com/85311683/126106509-f62e3c55-0652-41fd-9f91-ad8a4f82e753.png)
+
 
