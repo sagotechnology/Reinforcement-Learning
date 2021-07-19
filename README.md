@@ -82,3 +82,5 @@ Above is a diagram that represents reinforcement learning.  I will define some o
 5.  Reward - for each action selected by the agent, the environment provides a reward.  Usually a scalar value. 
 
 In summary, the environment provides several states to choose from.  The agent then takes action and is rewarded based on the decision.  The agent is trained to maximize its reward.
+
+https://sgomez-w251-hw11.s3.us-west-1.amazonaws.com/testing+run0.mp4
