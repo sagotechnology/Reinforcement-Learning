@@ -74,4 +74,11 @@ Q-learning is a type of reinforcement learning that seeks to find the best actio
 
 ![Screen Shot 2021-07-18 at 10 15 07 PM](https://user-images.githubusercontent.com/85311683/126106509-f62e3c55-0652-41fd-9f91-ad8a4f82e753.png)
 
+Above is a diagram that represents reinforcement learning.  I will define some of the terminologies.  
+1.  Agent - the learner and the decision-maker.
+2.  Environment - where the agent learns and decides what actions to perform.
+3.  Action - a set of actions that the agent can perform.
+4.  State - the state of the agent in the environment.
+5.  Reward - for each action selected by the agent, the environment provides a reward.  Usually a scalar value. 
 
+In summary, the environment provides several states to choose from.  The agent then takes action and is rewarded based on the decision.  The agent is trained to maximize its reward.
