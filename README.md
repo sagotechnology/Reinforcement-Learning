@@ -1,8 +1,6 @@
 # Reinforcement Learning
 
-https://gifs.com/gif/training-000-r28WLE
-
-
+<iframe src='//gifs.com/embed/training-000-r28WLE' frameborder='0' scrolling='no' width='540px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 
 ### 1.  What parameters did you change, and what values did you use?
