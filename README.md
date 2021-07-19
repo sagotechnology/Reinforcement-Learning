@@ -58,7 +58,10 @@ For my final model, I left the input layer the same, 16.  I then added a layer a
 ### 2.  Did you try any other changes (like adding layers or changing the epsilon value) that made things better or worse?  
 During my training, adding a third layer improved the model.  Decreasing the epsilon decay to 0.9 produced a horrendous model.  
 
-### 3.  Did your changes improve or degrade the model? How close did you get to a test run with 100% of the scores above 200?
+
+### 3.  Did your changes improve or degrade the model? How close did you get to a test run with 100% of the scores above 200?  
+Overall, my changes improved the model.  I was able to achieve 71% above 200 during testing.  
+
 ### 4.  Based on what you observed, what conclusions can you draw about the different parameters and their values?
 ### 5.  What is the purpose of the epsilon value?
 ### 6.  Describe "Q-Learning".
