@@ -1,11 +1,6 @@
 # Reinforcement Learning
 
-
-
-
-https://user-images.githubusercontent.com/85311683/126109560-1cec1c8f-d399-47dd-9d63-16ae9d07d41b.mov
-
-
+https://youtu.be/xVx758HgyZk
 
 
 
