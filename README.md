@@ -1,13 +1,13 @@
 # Reinforcement Learning
 
-Training 0
+Training 0  
 ![caption](https://j.gifs.com/Dq1Kyx.gif)
 
-Training 200
+Training 200  
 ![captions](https://j.gifs.com/Pj7qOw.gif)
 
-Test
-
+Test  
+![caption](https://j.gifs.com/VvAzXM.gif)
 
 
 ### 1.  What parameters did you change, and what values did you use?
