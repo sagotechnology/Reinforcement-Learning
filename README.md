@@ -1,12 +1,12 @@
-
-
-https://user-images.githubusercontent.com/85311683/126109442-287e4d4d-9be0-4f74-83d8-d4d220111279.mov
-
 # Reinforcement Learning
 
 
 
-https://user-images.githubusercontent.com/85311683/126109377-2f5b025e-d391-4cc1-86b1-98a924a8eb32.mp4
+
+https://user-images.githubusercontent.com/85311683/126109560-1cec1c8f-d399-47dd-9d63-16ae9d07d41b.mov
+
+
+
 
 
 
