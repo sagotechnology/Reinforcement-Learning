@@ -1,10 +1,6 @@
 # Reinforcement Learning
 
-steps:
-- title: What is GitHub?
-  description: After watching this video, close the first issue in your repository.
-  video: https://youtu.be/xVx758HgyZk
-
+https://gifs.com/gif/training-000-r28WLE
 
 
 
