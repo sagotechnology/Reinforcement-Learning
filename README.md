@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-https://youtu.be/xVx758HgyZk.mov
+https://youtube.com/embed/xVx758HgyZk
 
 
 
