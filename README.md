@@ -9,6 +9,7 @@ Training 200
 Test  
 ![caption](https://j.gifs.com/VvAzXM.gif)
 
+Object Cloud Storage Link: https://sgomez-w251-hw11.s3.us-west-1.amazonaws.com/testing+run0.mp4 
 
 ### 1.  What parameters did you change, and what values did you use?
 
@@ -93,4 +94,4 @@ Above is a diagram that represents reinforcement learning.  I will define some o
 
 In summary, the environment provides several states to choose from.  The agent then takes action and is rewarded based on the decision.  The agent is trained to maximize its reward.
 
-https://sgomez-w251-hw11.s3.us-west-1.amazonaws.com/testing+run0.mp4
+
