@@ -1,5 +1,8 @@
 # Reinforcement Learning
 
+![image](https://user-images.githubusercontent.com/85311683/126109322-5da3260f-e2f7-4dc0-b7d7-0d239037bcd2.jpeg)
+
+
 ### 1.  What parameters did you change, and what values did you use?
 
 ```
