@@ -1,5 +1,8 @@
 # Reinforcement Learning
 
+## Objective
+Train a model to successfully land the lunar module on the moon.
+
 ## Videos  
 
 Training 0  
